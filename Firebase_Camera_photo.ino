@@ -30,10 +30,10 @@
 #include <addons/TokenHelper.h>
 
 //Replace with your network credentials
-const char* ssid = "VODAFONE-1221";
-const char* password = "fdRb9shdKKCTC2dq";
+const char* ssid = "";
+const char* password = "";
 
-// lVdZR18TSkRivBe4e4tva3LGzcz2
+
 
 /*
 rules_version = '2';
@@ -47,17 +47,17 @@ service firebase.storage {
 */
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyAvMm5ClMDPcYQXHI8D_E3AV3ohaoS9JCQ"
+#define API_KEY ""
 
 // Insert Authorized Email and Corresponding Password
-#define USER_EMAIL "stefan.zakutansky@gmail.com"
-#define USER_PASSWORD "esp32.?"
+#define USER_EMAIL ""
+#define USER_PASSWORD ""
 // Insert Firebase project API Key
 
 
 
 // Insert Firebase storage bucket ID e.g bucket-name.appspot.com
-#define STORAGE_BUCKET_ID "my-camera-32.appspot.com"
+#define STORAGE_BUCKET_ID ""
 // For example:
 //#define STORAGE_BUCKET_ID "esp-iot-app.appspot.com"
 
